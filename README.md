@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Maram Aguir
 
-<!--
-**MaramAguir36/MaramAguir36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer and software enthusiast.  
+I love creating projects that solve real problems and learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- JavaScript, HTML, CSS
+- Python
+- Git & GitHub
+- React, Node.js
+
+---
+
+## 📫 Contact Me
+- Email: aguirmaram3@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/maram-aguir/
