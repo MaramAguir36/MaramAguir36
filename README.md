@@ -79,5 +79,5 @@ I'm passionate about building useful digital solutions, turning data into insigh
 ## 🤝 Let's Connect
 
 📧 **Email:** [aguirmaram3@gmail.com](mailto:aguirmaram3@gmail.com)  
-💼 **LinkedIn:** [Maram Aguir](https://www.linkedin.com/in/maram-aguir/)  
+💼 **LinkedIn:** [Maram Aguir]([https://www.linkedin.com/in/maram-aguir/](https://www.linkedin.com/in/maram-aguir-514b8638b/))  
 🌐 **Portfolio:** [maramaguir.com](https://maramaguir.com)
